@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\bin\Debug\net6.0\spoj.exe
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\bin\Debug\net6.0\spoj.deps.json
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\bin\Debug\net6.0\spoj.runtimeconfig.json
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\bin\Debug\net6.0\spoj.dll
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\bin\Debug\net6.0\spoj.pdb
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.AssemblyInfo.cs
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.dll
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\refint\spoj.dll
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.pdb
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\spoj.genruntimeconfig.cache
+C:\Users\piotr\Desktop\ASP.NET.CORE\spoj\spoj\obj\Debug\net6.0\ref\spoj.dll

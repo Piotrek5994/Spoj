@@ -1,0 +1,16 @@
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\bin\Debug\net5.0\Hash it cs.exe
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\bin\Debug\net5.0\Hash it cs.deps.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\bin\Debug\net5.0\Hash it cs.runtimeconfig.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\bin\Debug\net5.0\Hash it cs.runtimeconfig.dev.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\bin\Debug\net5.0\Hash it cs.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\bin\Debug\net5.0\Hash it cs.pdb
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.csproj.AssemblyReference.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.AssemblyInfoInputs.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.AssemblyInfo.cs
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.csproj.CoreCompileInputs.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\refint\Hash it cs.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.pdb
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\Hash it cs.genruntimeconfig.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Hash it cs\Hash it cs\obj\Debug\net5.0\ref\Hash it cs.dll

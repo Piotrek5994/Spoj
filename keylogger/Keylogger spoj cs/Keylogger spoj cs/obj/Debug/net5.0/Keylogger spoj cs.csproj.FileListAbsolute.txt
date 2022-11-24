@@ -1,0 +1,16 @@
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\bin\Debug\net5.0\Keylogger spoj cs.exe
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\bin\Debug\net5.0\Keylogger spoj cs.deps.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\bin\Debug\net5.0\Keylogger spoj cs.runtimeconfig.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\bin\Debug\net5.0\Keylogger spoj cs.runtimeconfig.dev.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\bin\Debug\net5.0\Keylogger spoj cs.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\bin\Debug\net5.0\Keylogger spoj cs.pdb
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.csproj.AssemblyReference.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.AssemblyInfoInputs.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.AssemblyInfo.cs
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.csproj.CoreCompileInputs.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\refint\Keylogger spoj cs.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.pdb
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\Keylogger spoj cs.genruntimeconfig.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\Keylogger spoj cs\Keylogger spoj cs\obj\Debug\net5.0\ref\Keylogger spoj cs.dll

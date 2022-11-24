@@ -1,0 +1,16 @@
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\bin\Debug\net5.0\ONP Spoj CSharp.exe
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\bin\Debug\net5.0\ONP Spoj CSharp.deps.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\bin\Debug\net5.0\ONP Spoj CSharp.runtimeconfig.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\bin\Debug\net5.0\ONP Spoj CSharp.runtimeconfig.dev.json
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\bin\Debug\net5.0\ONP Spoj CSharp.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\bin\Debug\net5.0\ONP Spoj CSharp.pdb
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.csproj.AssemblyReference.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.AssemblyInfoInputs.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.AssemblyInfo.cs
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\refint\ONP Spoj CSharp.dll
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.pdb
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ONP Spoj CSharp.genruntimeconfig.cache
+C:\Users\hgrze\Desktop\Zadania spoj\C#\ONP Spoj CSharp\ONP Spoj CSharp\obj\Debug\net5.0\ref\ONP Spoj CSharp.dll

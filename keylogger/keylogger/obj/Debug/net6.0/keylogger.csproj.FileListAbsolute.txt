@@ -1,0 +1,15 @@
+C:\Visual Studio Projects\keylogger\keylogger\bin\Debug\net6.0\keylogger.exe
+C:\Visual Studio Projects\keylogger\keylogger\bin\Debug\net6.0\keylogger.deps.json
+C:\Visual Studio Projects\keylogger\keylogger\bin\Debug\net6.0\keylogger.runtimeconfig.json
+C:\Visual Studio Projects\keylogger\keylogger\bin\Debug\net6.0\keylogger.dll
+C:\Visual Studio Projects\keylogger\keylogger\bin\Debug\net6.0\keylogger.pdb
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.AssemblyInfo.cs
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.dll
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\refint\keylogger.dll
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.pdb
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\keylogger.genruntimeconfig.cache
+C:\Visual Studio Projects\keylogger\keylogger\obj\Debug\net6.0\ref\keylogger.dll
